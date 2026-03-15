@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+email-validator
+python-jose
+passlib[argon2]
+psycopg2-binary
+python-dotenv
+streamlit
+streamlit-autorefresh
+requests
+pandas
+boto3
+
